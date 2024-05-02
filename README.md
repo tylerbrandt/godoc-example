@@ -1,3 +1,3 @@
 # godoc-example
 
-Example package to demonstrate `pkgsite` edge case.
+Example package to demonstrate `pkgsite` features (links, etc).

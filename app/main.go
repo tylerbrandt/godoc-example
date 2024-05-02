@@ -5,13 +5,5 @@ import (
 )
 
 func main() {
-	SayHello()
-	SayGoodbye()
-}
-
-// SayHello says hello
-//
-// This does not generate any docs!
-func SayHello() {
-	hello.SayHello()
+	hello.SayHello("Hello, world")
 }
